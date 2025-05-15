@@ -2,8 +2,6 @@
 
 **Repository Link:** https://github.com/VedikaJoshi25/EC2005-Data-Analytics-and-Modelling-Summative-Assignment_-2302614_Vedika-Joshi/blob/main/Summative_Assessment_2302614_Vedika_Joshi_.ipynb
 
-This repository contains the Jupyter Notebook analysis for the EC2005 Data Analytics and Modelling Assignment at the University of Winchester, under the supervision of Dr. Sakib Anwar. The analysis uses Lending Club data (10,000 loans) to investigate the determinants of interest rates in the consumer credit market.
-
 ## Overview
 
 The analysis is carried out entirely in Jupyter Notebooks. The project is divided into the following parts:
