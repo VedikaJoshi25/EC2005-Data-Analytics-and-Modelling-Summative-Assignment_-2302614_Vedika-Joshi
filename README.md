@@ -1,6 +1,6 @@
 # EC2005 Data Analytics and Modelling Assignment
 
-**Repository Link:** https://github.com/VedikaJoshi25/EC2005-Data-Analytics-and-Modelling-Summative-Assignment_-2302614_Vedika-Joshi/blob/main/Summative_Assessment_2302614_Vedika_Joshi_.ipynb
+**Repository Link:** https://github.com/VedikaJoshi25/EC2005-Data-Analytics-and-Modelling-Summative-Assignment_-2302614_Vedika-Joshi/blob/main/Summative_Assessment_2302614_Vedika_Joshi.ipynb
 
 ## Overview
 
